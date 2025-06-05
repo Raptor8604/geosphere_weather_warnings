@@ -1,0 +1,12 @@
+{
+  "domain": "geosphere_weather_warnings",
+  "name": "GeoSphere AT Weather Warnings",
+  "documentation": "",
+  "issue_tracker": "",
+  "codeowners": ["@Raptor8604"],
+  "requirements": [],
+  "iot_class": "cloud_polling",
+  "version": "0.1.0",
+  "config_flow": false,
+  "loggers": ["custom_components.geosphere_weather_warnings"]
+}
